@@ -1,0 +1,21 @@
+{
+    "resource_pack_name": "Ruby Armor Set",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "example:ruby_sword": {
+            "textures": "textures/e_ra/items/ruby_sword"
+        },
+        "example:ruby_helmet": {
+            "textures": "textures/e_ra/items/ruby_helmet"
+        },
+        "example:ruby_chestplate": {
+            "textures": "textures/e_ra/items/ruby_chestplate"
+        },
+        "example:ruby_leggings": {
+            "textures": "textures/e_ra/items/ruby_leggings"
+        },
+        "example:ruby_boots": {
+            "textures": "textures/e_ra/items/ruby_boots"
+        }
+    }
+}

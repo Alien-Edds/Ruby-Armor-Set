@@ -1,0 +1,31 @@
+{
+    "format_version": "1.21.80",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "example:ruby_sword"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "red_dye",
+                "count": 1
+            },
+            {
+                "item": "diamond_sword",
+                "count": 1,
+                "data": 0
+            }
+        ],
+        "result": {
+            "item": "example:ruby_sword",
+            "count": 1
+        },
+        "unlock": [
+            {
+                "item": "diamond_sword"
+            }
+        ]
+    }
+}

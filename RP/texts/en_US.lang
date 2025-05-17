@@ -1,0 +1,8 @@
+pack.name=Ruby Armor Set
+pack.description=Tutorial pack
+
+item.example:ruby_sword=§cRuby Sword~LINEBREAK~§rMy awesome sword
+item.example:ruby_helmet=§cRuby Helmet
+item.example:ruby_chestplate=§cRuby Chestplate
+item.example:ruby_leggings=§cRuby Leggings
+item.example:ruby_boots=§cRuby Boots
